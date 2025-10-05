@@ -1,7 +1,6 @@
 <h1>Hellooooo 👋</h1>
 <p> Developer always looking to learn about technology</p>
 
-#Delcas
 
 ## Technologies I work with
 
